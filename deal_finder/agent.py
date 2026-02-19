@@ -20,11 +20,6 @@ where google_search conflicts with transfer_to_agent function calling.
 This is the main orchestrator agent that interacts with the user, gathers preferences,
 and coordinates the research and analysis agents to find and evaluate real estate deals.
 
-Updates I can make to this project
-MARKET_RESEARCH_AGENT_PROMPT — add explicit instructions like 
-"verify the listing says duplex/triplex/fourplex before including it" or "discard any single-family or condo results." 
-or prompts.py in general 
-
 """
 
 from google.adk.agents import Agent
