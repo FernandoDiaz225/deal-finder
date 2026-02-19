@@ -200,6 +200,3 @@ docs/
 - [Gemini API](https://ai.google.dev/) — LLM for reasoning and search (gemini-2.5-flash, gemini-2.5-flash-lite)
 - Python 3.12
 
-## License
-
-MIT
